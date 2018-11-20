@@ -1,10 +1,10 @@
 var config = {
-    apiKey: "AIzaSyBbP1d0WC9pEz_M_Vq3KeG8kiIAuAjsZfA",
-    authDomain: "neuralnetjs.firebaseapp.com",
-    databaseURL: "https://neuralnetjs.firebaseio.com",
-    projectId: "neuralnetjs",
-    storageBucket: "neuralnetjs.appspot.com",
-    messagingSenderId: "377751663111"
+    apiKey: "xxxxxxxxx",
+    authDomain: "xxxxxxxx.firebaseapp.com",
+    databaseURL: "https://xxxxx.firebaseio.com",
+    projectId: "xxxxxxx",
+    storageBucket: "xxxxxx.appspot.com",
+    messagingSenderId: "xxxxxxxxxxxx"
 };
 
 //makes all buttons change the collor of the canvas after clicked
