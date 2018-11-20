@@ -1,17 +1,36 @@
 var config = {
-    apiKey: "xxxxxxxxx",
-    authDomain: "xxxxxxxx.firebaseapp.com",
-    databaseURL: "https://xxxxx.firebaseio.com",
-    projectId: "xxxxxxx",
-    storageBucket: "xxxxxx.appspot.com",
-    messagingSenderId: "xxxxxxxxxxxx"
+  apiKey: "xxxxxxxxxxxxxxx",
+  authDomain: "xxxxxxx.firebaseapp.com",
+  databaseURL: "https://xxxxxxx.firebaseio.com",
+  projectId: "xxxxxxxxx",
+  storageBucket: "xxxxx.appspot.com",
+  messagingSenderId: "xxxxxxx"
 };
 
-//makes all buttons change the collor of the canvas after clicked
 const botoes = document.querySelectorAll('.btns');
 botoes.forEach(botao => {
-  botao.addEventListener("click", draw, false)
+  botao.addEventListener("click", function sendData(){
+  
+    let corDb = database.ref('cor');
+    let data = { //creates the object to be storaged on firebase
+      r:rgb.r,
+      g:rgb.g,
+      b:rgb.b,
+      label:botao.innerHTML
+    }
+    let cor = corDb.push(data,finished); //push the data
+    draw();
+  }, false)
 });
+
+function finished(err){ //feedback function about sending the data to firebase
+  if(err){
+    console.error("Something went wrong :S");
+    console.error(err);
+  }else{
+    console.log("Data sucessfully storaged!")
+  }
+}
 
 firebase.initializeApp(config);
 var database = firebase.database();
@@ -23,7 +42,6 @@ function randomColor(){
     number = Math.floor(number); 
     return number; 
 }
-
 //creates a rgb number and return as a object
 function randomRGB(){
   red = randomColor();
@@ -35,16 +53,19 @@ function randomRGB(){
     b:blue
   };
 }
-
 //draws in html a square with a random rgb color
 function draw() {
   var canvas = document.getElementById('canvas');
   if (canvas.getContext) {    
     var ctx = canvas.getContext('2d');
     randomRGB();
-    console.log(rgb);
     ctx.fillStyle = `rgb(${rgb.r}, ${rgb.g}, ${rgb.b})`;
     ctx.fillRect(0, 0, 150, 150);
   }
 }
+
+
+
+
+
 
