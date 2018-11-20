@@ -43,7 +43,7 @@ function draw() {
     var ctx = canvas.getContext('2d');
     randomRGB();
     console.log(rgb);
-    ctx.fillStyle = `rgb(${rgb.r}, ${rgb.b}, ${rgb.g})`; //rgb aparentemente tá errado
+    ctx.fillStyle = `rgb(${rgb.r}, ${rgb.g}, ${rgb.b})`; //rgb aparentemente tá errado
     ctx.fillRect(0, 0, 150, 150);
   }
 }
