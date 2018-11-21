@@ -1,11 +1,13 @@
 var config = {
-  apiKey: "xxxxxxxxxxxxxxx",
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxx",
   authDomain: "xxxxxxx.firebaseapp.com",
-  databaseURL: "https://xxxxxxx.firebaseio.com",
-  projectId: "xxxxxxxxx",
-  storageBucket: "xxxxx.appspot.com",
-  messagingSenderId: "xxxxxxx"
+  databaseURL: "https://xxxxxxxx.firebaseio.com",
+  projectId: "xxxxxxxxxxx",
+  storageBucket: "xxxxxxxxxx.appspot.com",
+  messagingSenderId: "xxxxxxxxxxxxxxx"
 };
+firebase.initializeApp(config);
+var database = firebase.database();
 
 const botoes = document.querySelectorAll('.btns');
 botoes.forEach(botao => {
@@ -18,7 +20,7 @@ botoes.forEach(botao => {
       b:rgb.b,
       label:botao.innerHTML
     }
-    let cor = corDb.push(data,finished); //push the data
+    corDb.push(data,finished); //push the data
     draw();
   }, false)
 });
@@ -31,9 +33,6 @@ function finished(err){ //feedback function about sending the data to firebase
     console.log("Data sucessfully storaged!")
   }
 }
-
-firebase.initializeApp(config);
-var database = firebase.database();
 
 //creates a random number from 1 to 255
 function randomColor(){
@@ -63,6 +62,29 @@ function draw() {
     ctx.fillRect(0, 0, 150, 150);
   }
 }
+
+var firebaseJson;
+let colors = [];
+$.getJSON("neuralnetjs.json", function(data){
+  firebaseJson = data.cor;
+  Object.entries(firebaseJson).forEach(( record ) =>{
+    col = [record[1].r/255, record[1].g/255, record[1].b/255];
+    colors.push(col);
+    });
+});
+console.log(colors);
+let xs = tf.tensor3d(colors);
+console.log(xs.shape);
+
+
+
+
+
+
+  
+ 
+
+
 
 
 

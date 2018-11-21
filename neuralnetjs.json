@@ -1,0 +1,1684 @@
+{
+  "cor" : {
+    "-LRoKkBue2r75Gtb6hOA" : {
+      "b" : 68,
+      "g" : 221,
+      "label" : "amarelo",
+      "r" : 238
+    },
+    "-LRoKkumELPRKia4lDSg" : {
+      "b" : 218,
+      "g" : 110,
+      "label" : "rosa",
+      "r" : 234
+    },
+    "-LRoKlxP-r7sS-1qUBRx" : {
+      "b" : 131,
+      "g" : 248,
+      "label" : "verde",
+      "r" : 162
+    },
+    "-LRoKmNAf6-8G4aahZ1q" : {
+      "b" : 252,
+      "g" : 227,
+      "label" : "rosa",
+      "r" : 254
+    },
+    "-LRoKmwMoOo2Kcm9iv0P" : {
+      "b" : 168,
+      "g" : 156,
+      "label" : "azul",
+      "r" : 57
+    },
+    "-LRoKo3TaTICrGgnCsSE" : {
+      "b" : 21,
+      "g" : 96,
+      "label" : "laranja",
+      "r" : 148
+    },
+    "-LRoKoR15Crw1uURDDPQ" : {
+      "b" : 25,
+      "g" : 7,
+      "label" : "vermelho",
+      "r" : 139
+    },
+    "-LRoKosUCiH-vEsIOQuk" : {
+      "b" : 230,
+      "g" : 45,
+      "label" : "rosa",
+      "r" : 216
+    },
+    "-LRoKpWw180IGQ3gttPt" : {
+      "b" : 35,
+      "g" : 91,
+      "label" : "verde",
+      "r" : 69
+    },
+    "-LRoKq7oJ-NL9TdEk3zI" : {
+      "b" : 159,
+      "g" : 190,
+      "label" : "marrom",
+      "r" : 215
+    },
+    "-LRoKqK-GInZhxlGfhFy" : {
+      "b" : 103,
+      "g" : 134,
+      "label" : "marrom",
+      "r" : 171
+    },
+    "-LRoKqfcXOSEyJjN82t8" : {
+      "b" : 233,
+      "g" : 136,
+      "label" : "roxo",
+      "r" : 146
+    },
+    "-LRoKsSSK60OmYFpBtbr" : {
+      "b" : 78,
+      "g" : 84,
+      "label" : "verde",
+      "r" : 25
+    },
+    "-LRoKsda5WBCCDP2VBm6" : {
+      "b" : 95,
+      "g" : 254,
+      "label" : "verde",
+      "r" : 142
+    },
+    "-LRoKsyfRDocf5v2yO-R" : {
+      "b" : 247,
+      "g" : 47,
+      "label" : "roxo",
+      "r" : 104
+    },
+    "-LRoKtQ_keEr_VZ11f4N" : {
+      "b" : 181,
+      "g" : 235,
+      "label" : "azul",
+      "r" : 92
+    },
+    "-LRoKtnLetS4lZl34wap" : {
+      "b" : 92,
+      "g" : 211,
+      "label" : "verde",
+      "r" : 86
+    },
+    "-LRoKtxVs9hz-R91oapB" : {
+      "b" : 81,
+      "g" : 166,
+      "label" : "verde",
+      "r" : 94
+    },
+    "-LRoKu4hn-RqAcP6cby-" : {
+      "b" : 29,
+      "g" : 157,
+      "label" : "verde",
+      "r" : 20
+    },
+    "-LRoKuJQLOV9VSbK2P2d" : {
+      "b" : 108,
+      "g" : 138,
+      "label" : "verde",
+      "r" : 100
+    },
+    "-LRoKuYJWlmmgUXpNPG2" : {
+      "b" : 171,
+      "g" : 244,
+      "label" : "verde",
+      "r" : 71
+    },
+    "-LRoKukHZ31oXrk3wh0e" : {
+      "b" : 81,
+      "g" : 180,
+      "label" : "verde",
+      "r" : 138
+    },
+    "-LRoKvAGRLCH2FcRkrcZ" : {
+      "b" : 252,
+      "g" : 17,
+      "label" : "rosa",
+      "r" : 226
+    },
+    "-LRoKvX99AEqPARVWc5_" : {
+      "b" : 245,
+      "g" : 145,
+      "label" : "azul",
+      "r" : 107
+    },
+    "-LRoKvridIoUj96i_qbD" : {
+      "b" : 197,
+      "g" : 222,
+      "label" : "azul",
+      "r" : 78
+    },
+    "-LRoKw0hxhU1KvcIr5Uh" : {
+      "b" : 204,
+      "g" : 70,
+      "label" : "azul",
+      "r" : 61
+    },
+    "-LRoKwI_Vae5oPDNvcCX" : {
+      "b" : 233,
+      "g" : 156,
+      "label" : "roxo",
+      "r" : 156
+    },
+    "-LRoKwsr_PryzGliX0Lg" : {
+      "b" : 236,
+      "g" : 191,
+      "label" : "azul",
+      "r" : 95
+    },
+    "-LRoKxE8YAhLpV4DnUKG" : {
+      "b" : 37,
+      "g" : 149,
+      "label" : "verde",
+      "r" : 43
+    },
+    "-LRoKxf0MYkOn5BHGjUj" : {
+      "b" : 183,
+      "g" : 77,
+      "label" : "azul",
+      "r" : 27
+    },
+    "-LRoKyBze4sLygyv0Axa" : {
+      "b" : 68,
+      "g" : 66,
+      "label" : "vermelho",
+      "r" : 203
+    },
+    "-LRoKycJn0cBp7-xiqoD" : {
+      "b" : 56,
+      "g" : 193,
+      "label" : "verde",
+      "r" : 93
+    },
+    "-LRoKzQcHEdWQNhB_qSJ" : {
+      "b" : 222,
+      "g" : 70,
+      "label" : "rosa",
+      "r" : 195
+    },
+    "-LRoKzma9oePDVGuk6Z_" : {
+      "b" : 66,
+      "g" : 209,
+      "label" : "verde",
+      "r" : 11
+    },
+    "-LRoL-7wEsZ_TyxwqNau" : {
+      "b" : 32,
+      "g" : 248,
+      "label" : "amarelo",
+      "r" : 238
+    },
+    "-LRoL-T-hTZhg0oBFP-q" : {
+      "b" : 19,
+      "g" : 2,
+      "label" : "vermelho",
+      "r" : 119
+    },
+    "-LRoL-xMHQABmBzNtDDE" : {
+      "b" : 32,
+      "g" : 57,
+      "label" : "laranja",
+      "r" : 159
+    },
+    "-LRoL0XFxbeEOZ714RaN" : {
+      "b" : 192,
+      "g" : 78,
+      "label" : "rosa",
+      "r" : 208
+    },
+    "-LRoL0hB82Nfb1w-x6ks" : {
+      "b" : 145,
+      "g" : 42,
+      "label" : "rosa",
+      "r" : 233
+    },
+    "-LRoL0xfQXT9x6ZV7Wg0" : {
+      "b" : 131,
+      "g" : 135,
+      "label" : "marrom",
+      "r" : 142
+    },
+    "-LRoL1CAEdKhnueGqGet" : {
+      "b" : 85,
+      "g" : 108,
+      "label" : "marrom",
+      "r" : 94
+    },
+    "-LRoL1Xf9bRRkq2hMp3T" : {
+      "b" : 198,
+      "g" : 121,
+      "label" : "rosa",
+      "r" : 217
+    },
+    "-LRoL1urKDL9CfVjmIer" : {
+      "b" : 30,
+      "g" : 231,
+      "label" : "verde",
+      "r" : 126
+    },
+    "-LRoL2HcpbQrR3jHIY_I" : {
+      "b" : 228,
+      "g" : 12,
+      "label" : "azul",
+      "r" : 46
+    },
+    "-LRoL33KmKmcOwbV_uBa" : {
+      "b" : 0,
+      "g" : 55,
+      "label" : "verde",
+      "r" : 12
+    },
+    "-LRoL3dMeUTqwu64dPps" : {
+      "b" : 103,
+      "g" : 16,
+      "label" : "rosa",
+      "r" : 250
+    },
+    "-LRoL4eOszH60-jKaIKE" : {
+      "b" : 172,
+      "g" : 220,
+      "label" : "verde",
+      "r" : 93
+    },
+    "-LRoL5-AoAPdsgu8Kq8a" : {
+      "b" : 176,
+      "g" : 11,
+      "label" : "rosa",
+      "r" : 190
+    },
+    "-LRoL5ezrPAMFcte6wUJ" : {
+      "b" : 187,
+      "g" : 113,
+      "label" : "azul",
+      "r" : 37
+    },
+    "-LRoL5uZ_LOJ3rdWvjCk" : {
+      "b" : 204,
+      "g" : 243,
+      "label" : "azul",
+      "r" : 21
+    },
+    "-LRoL6I6x8dUYAXIv2pu" : {
+      "b" : 191,
+      "g" : 66,
+      "label" : "rosa",
+      "r" : 239
+    },
+    "-LRoL6ckACbTQXo4F0Lr" : {
+      "b" : 107,
+      "g" : 127,
+      "label" : "marrom",
+      "r" : 129
+    },
+    "-LRoL72r8hvBSARaZBjD" : {
+      "b" : 243,
+      "g" : 221,
+      "label" : "azul",
+      "r" : 173
+    },
+    "-LRoL7SOPQ7pvh-BY5td" : {
+      "b" : 63,
+      "g" : 88,
+      "label" : "laranja",
+      "r" : 232
+    },
+    "-LRoL7pq_-bmc0BG2fVa" : {
+      "b" : 239,
+      "g" : 160,
+      "label" : "azul",
+      "r" : 50
+    },
+    "-LRoL87qAwn8RaBmc4IQ" : {
+      "b" : 26,
+      "g" : 176,
+      "label" : "verde",
+      "r" : 29
+    },
+    "-LRoL8Y0FRrBHFHUWe2L" : {
+      "b" : 143,
+      "g" : 16,
+      "label" : "azul",
+      "r" : 5
+    },
+    "-LRoL8rjMK774_ZFWu3f" : {
+      "b" : 139,
+      "g" : 136,
+      "label" : "rosa",
+      "r" : 248
+    },
+    "-LRoL9ocSF32Zwi7U53R" : {
+      "b" : 4,
+      "g" : 193,
+      "label" : "verde",
+      "r" : 111
+    },
+    "-LRoLA78ZZG6MDx5fUDa" : {
+      "b" : 209,
+      "g" : 39,
+      "label" : "roxo",
+      "r" : 122
+    },
+    "-LRoLAJ83JUR5fekW3If" : {
+      "b" : 78,
+      "g" : 54,
+      "label" : "roxo",
+      "r" : 67
+    },
+    "-LRoLAc1QktnsJqJRmuC" : {
+      "b" : 13,
+      "g" : 198,
+      "label" : "amarelo",
+      "r" : 242
+    },
+    "-LRoLAySm4NU0qtF6xPX" : {
+      "b" : 70,
+      "g" : 124,
+      "label" : "marrom",
+      "r" : 141
+    },
+    "-LRoLBSUBFykq4pdG9-4" : {
+      "b" : 143,
+      "g" : 76,
+      "label" : "roxo",
+      "r" : 144
+    },
+    "-LRoLBzTT0iaydwEkb_V" : {
+      "b" : 85,
+      "g" : 154,
+      "label" : "verde",
+      "r" : 114
+    },
+    "-LRoLCNWrJaoWMCJtygc" : {
+      "b" : 81,
+      "g" : 15,
+      "label" : "roxo",
+      "r" : 81
+    },
+    "-LRoLCmD2eTWArXU3fiM" : {
+      "b" : 38,
+      "g" : 23,
+      "label" : "vermelho",
+      "r" : 249
+    },
+    "-LRoLDBEvbB8CalApHEi" : {
+      "b" : 148,
+      "g" : 227,
+      "label" : "verde",
+      "r" : 154
+    },
+    "-LRoLDMO0uDEiJzLBYEh" : {
+      "b" : 17,
+      "g" : 204,
+      "label" : "verde",
+      "r" : 74
+    },
+    "-LRoLDo5a4Fkx81lPIKK" : {
+      "b" : 88,
+      "g" : 80,
+      "label" : "azul",
+      "r" : 20
+    },
+    "-LRoLE0Kd_vKHAITO-Aw" : {
+      "b" : 167,
+      "g" : 150,
+      "label" : "azul",
+      "r" : 72
+    },
+    "-LRoLE_ZrAu-UxxX5LJa" : {
+      "b" : 173,
+      "g" : 97,
+      "label" : "rosa",
+      "r" : 196
+    },
+    "-LRoLEthDMctlWKkNWDj" : {
+      "b" : 160,
+      "g" : 245,
+      "label" : "verde",
+      "r" : 147
+    },
+    "-LRoLFDvbeUM7JEiqr2u" : {
+      "b" : 37,
+      "g" : 125,
+      "label" : "marrom",
+      "r" : 125
+    },
+    "-LRoLHcVePQFktfefnAw" : {
+      "b" : 62,
+      "g" : 126,
+      "label" : "verde",
+      "r" : 54
+    },
+    "-LRoLHvSKT0BCq9I95T5" : {
+      "b" : 239,
+      "g" : 114,
+      "label" : "azul",
+      "r" : 42
+    },
+    "-LRoLIb0W-uqRSweVrXC" : {
+      "b" : 92,
+      "g" : 232,
+      "label" : "verde",
+      "r" : 162
+    },
+    "-LRoLIpiM8kKBPf4imBw" : {
+      "b" : 199,
+      "g" : 216,
+      "label" : "azul",
+      "r" : 29
+    },
+    "-LRoLJ-wdkyNhYyE4oo6" : {
+      "b" : 17,
+      "g" : 133,
+      "label" : "verde",
+      "r" : 20
+    },
+    "-LRoLJHp2AIhxSp4jw3Z" : {
+      "b" : 189,
+      "g" : 10,
+      "label" : "roxo",
+      "r" : 104
+    },
+    "-LRoLJgMGWVQqGviZaCA" : {
+      "b" : 14,
+      "g" : 65,
+      "label" : "marrom",
+      "r" : 51
+    },
+    "-LRoLK1yQF3aim5YnuEl" : {
+      "b" : 213,
+      "g" : 114,
+      "label" : "azul",
+      "r" : 19
+    },
+    "-LRoLKCZx7SPL3qtgfiD" : {
+      "b" : 157,
+      "g" : 106,
+      "label" : "azul",
+      "r" : 1
+    },
+    "-LRoLKTU31Kx5D95ZMdS" : {
+      "b" : 142,
+      "g" : 40,
+      "label" : "roxo",
+      "r" : 85
+    },
+    "-LRoLKiydJxx_8QQdfGP" : {
+      "b" : 37,
+      "g" : 162,
+      "label" : "verde",
+      "r" : 117
+    },
+    "-LRoLKt1s8Gnf6QJu6iY" : {
+      "b" : 119,
+      "g" : 242,
+      "label" : "verde",
+      "r" : 17
+    },
+    "-LRoNchjZp6LIhjDXUIh" : {
+      "b" : 150,
+      "g" : 74,
+      "label" : "rosa",
+      "r" : 218
+    },
+    "-LRoNd0_4XOj7ni8FRgY" : {
+      "b" : 24,
+      "g" : 66,
+      "label" : "marrom",
+      "r" : 163
+    },
+    "-LRoNdWmQV7suSHfTTK_" : {
+      "b" : 146,
+      "g" : 151,
+      "label" : "cinza",
+      "r" : 142
+    },
+    "-LRoNe1BVpIzCv696K0R" : {
+      "b" : 53,
+      "g" : 159,
+      "label" : "verde",
+      "r" : 129
+    },
+    "-LRoNeVyWzIyxYBLU4C5" : {
+      "b" : 179,
+      "g" : 46,
+      "label" : "azul",
+      "r" : 30
+    },
+    "-LRoNf35iKxN7c0IGWZf" : {
+      "b" : 138,
+      "g" : 253,
+      "label" : "verde",
+      "r" : 141
+    },
+    "-LRoNfOw5QO3VlDjRju2" : {
+      "b" : 59,
+      "g" : 51,
+      "label" : "marrom",
+      "r" : 126
+    },
+    "-LRoNfmVYCsZr3TOE4PU" : {
+      "b" : 127,
+      "g" : 130,
+      "label" : "verde",
+      "r" : 40
+    },
+    "-LRoNhvWNfDrZivO1b0R" : {
+      "b" : 143,
+      "g" : 187,
+      "label" : "amarelo",
+      "r" : 225
+    },
+    "-LRoNioZD-kZuIOQGS77" : {
+      "b" : 129,
+      "g" : 47,
+      "label" : "rosa",
+      "r" : 198
+    },
+    "-LRoOFhTvx4xnmkEsWYK" : {
+      "b" : 139,
+      "g" : 211,
+      "label" : "verde",
+      "r" : 196
+    },
+    "-LRoOGPX7ztvRALWZrR1" : {
+      "b" : 130,
+      "g" : 139,
+      "label" : "cinza",
+      "r" : 132
+    },
+    "-LRoOH0RuDtMzea3Obx8" : {
+      "b" : 30,
+      "g" : 94,
+      "label" : "laranja",
+      "r" : 227
+    },
+    "-LRoOHZ4XEVJVomJbrBD" : {
+      "b" : 73,
+      "g" : 92,
+      "label" : "marrom",
+      "r" : 164
+    },
+    "-LRoOI4ghJY4axOj7L02" : {
+      "b" : 8,
+      "g" : 60,
+      "label" : "verde",
+      "r" : 0
+    },
+    "-LRoOJ_Tueh_32VR-HcK" : {
+      "b" : 105,
+      "g" : 165,
+      "label" : "amarelo",
+      "r" : 187
+    },
+    "-LRoOK0zN8Se8xvoFV-D" : {
+      "b" : 70,
+      "g" : 111,
+      "label" : "marrom",
+      "r" : 168
+    },
+    "-LRoOKIXUK3-kZTvZEII" : {
+      "b" : 9,
+      "g" : 147,
+      "label" : "verde",
+      "r" : 123
+    },
+    "-LRoOKcdbCPqacVnx-c3" : {
+      "b" : 56,
+      "g" : 94,
+      "label" : "marrom",
+      "r" : 150
+    },
+    "-LRoOKocIp3o3YY-M1as" : {
+      "b" : 125,
+      "g" : 221,
+      "label" : "verde",
+      "r" : 139
+    },
+    "-LRoOL1HijZW_ayjIfzx" : {
+      "b" : 51,
+      "g" : 62,
+      "label" : "marrom",
+      "r" : 79
+    },
+    "-LRoOLbEYHTiZRToRT0p" : {
+      "b" : 90,
+      "g" : 142,
+      "label" : "laranja",
+      "r" : 232
+    },
+    "-LRoOLq5333QngQ891Ss" : {
+      "b" : 44,
+      "g" : 14,
+      "label" : "vermelho",
+      "r" : 144
+    },
+    "-LRoOMAH6CuqG5zgI0co" : {
+      "b" : 198,
+      "g" : 215,
+      "label" : "azul",
+      "r" : 48
+    },
+    "-LRoOMfC-Z0fT-ZRAJyG" : {
+      "b" : 93,
+      "g" : 220,
+      "label" : "verde",
+      "r" : 83
+    },
+    "-LRoON59KYNsy2mQUfv-" : {
+      "b" : 161,
+      "g" : 52,
+      "label" : "azul",
+      "r" : 37
+    },
+    "-LRoONa-xDrH-zYyFutj" : {
+      "b" : 247,
+      "g" : 20,
+      "label" : "rosa",
+      "r" : 234
+    },
+    "-LRoOOE5zDCIdFiP5kB9" : {
+      "b" : 149,
+      "g" : 28,
+      "label" : "roxo",
+      "r" : 81
+    },
+    "-LRoOOmDL911IQMwJp4-" : {
+      "b" : 214,
+      "g" : 78,
+      "label" : "roxo",
+      "r" : 73
+    },
+    "-LRoOPHoNg_7_BaJe-Hl" : {
+      "b" : 144,
+      "g" : 97,
+      "label" : "rosa",
+      "r" : 190
+    },
+    "-LRoOPdBPl9UmKi3d-jt" : {
+      "b" : 78,
+      "g" : 33,
+      "label" : "vermelho",
+      "r" : 133
+    },
+    "-LRoOQU4zR5E1p142wd2" : {
+      "b" : 209,
+      "g" : 74,
+      "label" : "roxo",
+      "r" : 83
+    },
+    "-LRoOQlYlgbFZnuuCq0f" : {
+      "b" : 120,
+      "g" : 155,
+      "label" : "verde",
+      "r" : 74
+    },
+    "-LRoOQziQGc6Kpm27i9A" : {
+      "b" : 39,
+      "g" : 239,
+      "label" : "verde",
+      "r" : 6
+    },
+    "-LRoORKl022c23JSKmFz" : {
+      "b" : 139,
+      "g" : 123,
+      "label" : "cinza",
+      "r" : 122
+    },
+    "-LRoORbhIzALJv5Osb_x" : {
+      "b" : 186,
+      "g" : 37,
+      "label" : "azul",
+      "r" : 4
+    },
+    "-LRoORy8fX_-cc7pGE0P" : {
+      "b" : 177,
+      "g" : 41,
+      "label" : "roxo",
+      "r" : 132
+    },
+    "-LRoOSK8znYAczW4dfCf" : {
+      "b" : 81,
+      "g" : 188,
+      "label" : "laranja",
+      "r" : 240
+    },
+    "-LRoOT_BlzXi_UrWK1g8" : {
+      "b" : 120,
+      "g" : 40,
+      "label" : "roxo",
+      "r" : 152
+    },
+    "-LRoOTrL9HWF2lr4TzGg" : {
+      "b" : 72,
+      "g" : 233,
+      "label" : "verde",
+      "r" : 147
+    },
+    "-LRoOU4KeUMxJBymE54b" : {
+      "b" : 138,
+      "g" : 223,
+      "label" : "verde",
+      "r" : 16
+    },
+    "-LRoOUFJPt3HDM6HdDwW" : {
+      "b" : 49,
+      "g" : 90,
+      "label" : "verde",
+      "r" : 31
+    },
+    "-LRoOU_28pEh6L4tNHtt" : {
+      "b" : 25,
+      "g" : 15,
+      "label" : "vermelho",
+      "r" : 224
+    },
+    "-LRoOVEWiyUFNIKiUXjJ" : {
+      "b" : 155,
+      "g" : 0,
+      "label" : "rosa",
+      "r" : 207
+    },
+    "-LRoOWHPOjwntm6Iz1hZ" : {
+      "b" : 6,
+      "g" : 78,
+      "label" : "laranja",
+      "r" : 216
+    },
+    "-LRoOWZl5JkFQVYnBWnG" : {
+      "b" : 115,
+      "g" : 222,
+      "label" : "verde",
+      "r" : 82
+    },
+    "-LRoOWycCv2zg-o8I_Wb" : {
+      "b" : 182,
+      "g" : 18,
+      "label" : "roxo",
+      "r" : 167
+    },
+    "-LRoOXepFp8oXVu5kiGX" : {
+      "b" : 162,
+      "g" : 225,
+      "label" : "amarelo",
+      "r" : 253
+    },
+    "-LRoOXyGV-n0wiI8FiFy" : {
+      "b" : 1,
+      "g" : 131,
+      "label" : "verde",
+      "r" : 17
+    },
+    "-LRoOYLqiHHWIUiyI_yK" : {
+      "b" : 105,
+      "g" : 128,
+      "label" : "laranja",
+      "r" : 249
+    },
+    "-LRoOZ8wblkMefXfVSW6" : {
+      "b" : 224,
+      "g" : 89,
+      "label" : "roxo",
+      "r" : 89
+    },
+    "-LRoOZn3m-NDvrMMBAMe" : {
+      "b" : 70,
+      "g" : 74,
+      "label" : "verde",
+      "r" : 12
+    },
+    "-LRoO_0HDFavqltcBaj7" : {
+      "b" : 124,
+      "g" : 248,
+      "label" : "verde",
+      "r" : 129
+    },
+    "-LRoO_9bxZI8r17hDicn" : {
+      "b" : 88,
+      "g" : 249,
+      "label" : "verde",
+      "r" : 24
+    },
+    "-LRoOadD80RJNCDVbary" : {
+      "b" : 16,
+      "g" : 44,
+      "label" : "marrom",
+      "r" : 166
+    },
+    "-LRoOb23-ktJk85-t0PE" : {
+      "b" : 171,
+      "g" : 27,
+      "label" : "rosa",
+      "r" : 228
+    },
+    "-LRoObVS-gknfDO2UcsZ" : {
+      "b" : 116,
+      "g" : 119,
+      "label" : "laranja",
+      "r" : 252
+    },
+    "-LRoOcOGJKtHDPoKJ9QT" : {
+      "b" : 101,
+      "g" : 191,
+      "label" : "verde",
+      "r" : 148
+    },
+    "-LRoOchNoxYz3WoPBFOH" : {
+      "b" : 27,
+      "g" : 11,
+      "label" : "vermelho",
+      "r" : 250
+    },
+    "-LRoOd1niKyCWMCBF_O-" : {
+      "b" : 145,
+      "g" : 154,
+      "label" : "cinza",
+      "r" : 127
+    },
+    "-LRoOdMJgf2IcBVYtiyg" : {
+      "b" : 40,
+      "g" : 247,
+      "label" : "verde",
+      "r" : 142
+    },
+    "-LRoOdpaVCxGD21SRMzi" : {
+      "b" : 54,
+      "g" : 93,
+      "label" : "marrom",
+      "r" : 151
+    },
+    "-LRoOgnQUZ7t7FlZzsBz" : {
+      "b" : 79,
+      "g" : 64,
+      "label" : "marrom",
+      "r" : 101
+    },
+    "-LRoOh1a_nMuONV5tr2w" : {
+      "b" : 31,
+      "g" : 119,
+      "label" : "marrom",
+      "r" : 194
+    },
+    "-LRoOhYbF-0WdwzMeMyE" : {
+      "b" : 80,
+      "g" : 27,
+      "label" : "vermelho",
+      "r" : 227
+    },
+    "-LRoOhr04rxfu1eBj_St" : {
+      "b" : 236,
+      "g" : 179,
+      "label" : "azul",
+      "r" : 23
+    },
+    "-LRoOiHt_KQpwKFWy6YV" : {
+      "b" : 213,
+      "g" : 227,
+      "label" : "verde",
+      "r" : 134
+    },
+    "-LRoOj5axb5w3Z40IP3n" : {
+      "b" : 205,
+      "g" : 4,
+      "label" : "roxo",
+      "r" : 56
+    },
+    "-LRoOjMG14RbI3vOBob6" : {
+      "b" : 243,
+      "g" : 19,
+      "label" : "azul",
+      "r" : 28
+    },
+    "-LRoOjjWf1Pb-oLXyMdg" : {
+      "b" : 9,
+      "g" : 82,
+      "label" : "marrom",
+      "r" : 164
+    },
+    "-LRoOkLHJI-vw5jD34Xn" : {
+      "b" : 181,
+      "g" : 43,
+      "label" : "roxo",
+      "r" : 80
+    },
+    "-LRoOkkTEs9ZzFmGGWH0" : {
+      "b" : 168,
+      "g" : 89,
+      "label" : "roxo",
+      "r" : 152
+    },
+    "-LRoOlOrtpwYjMmX_JQs" : {
+      "b" : 68,
+      "g" : 57,
+      "label" : "vermelho",
+      "r" : 199
+    },
+    "-LRoOm-fneOYDij5LWDs" : {
+      "b" : 40,
+      "g" : 182,
+      "label" : "amarelo",
+      "r" : 197
+    },
+    "-LRoOmpAGLYQt-FlbQ7C" : {
+      "b" : 171,
+      "g" : 211,
+      "label" : "verde",
+      "r" : 153
+    },
+    "-LRoOn7sq-zO3XHde6zH" : {
+      "b" : 178,
+      "g" : 114,
+      "label" : "azul",
+      "r" : 67
+    },
+    "-LRoOnVHPkfa9_oErrSn" : {
+      "b" : 240,
+      "g" : 11,
+      "label" : "roxo",
+      "r" : 119
+    },
+    "-LRoOnrikX9Ib_9zxn9G" : {
+      "b" : 54,
+      "g" : 242,
+      "label" : "verde",
+      "r" : 12
+    },
+    "-LRoOqSX3GzJSCWoyrI3" : {
+      "b" : 56,
+      "g" : 237,
+      "label" : "verde",
+      "r" : 216
+    },
+    "-LRoOrU3_0vG2MRPeij_" : {
+      "b" : 123,
+      "g" : 30,
+      "label" : "azul",
+      "r" : 36
+    },
+    "-LRoOrvU-EfQR4OyDz3y" : {
+      "b" : 32,
+      "g" : 33,
+      "label" : "vermelho",
+      "r" : 213
+    },
+    "-LRoOsRzqYUyBKgDNt3I" : {
+      "b" : 1,
+      "g" : 174,
+      "label" : "verde",
+      "r" : 41
+    },
+    "-LRoOsnRw03-63jshrcg" : {
+      "b" : 75,
+      "g" : 237,
+      "label" : "verde",
+      "r" : 125
+    },
+    "-LRoOt0R8foIjJauWi-n" : {
+      "b" : 77,
+      "g" : 230,
+      "label" : "verde",
+      "r" : 4
+    },
+    "-LRoOtysLi4Dn3YDgmbc" : {
+      "b" : 105,
+      "g" : 43,
+      "label" : "rosa",
+      "r" : 206
+    },
+    "-LRoOuKyJ8LU8dqdFUDj" : {
+      "b" : 134,
+      "g" : 220,
+      "label" : "verde",
+      "r" : 128
+    },
+    "-LRoOuWdlFaGpx0WvSUE" : {
+      "b" : 55,
+      "g" : 233,
+      "label" : "verde",
+      "r" : 59
+    },
+    "-LRoOudaluk5N_z-vmYI" : {
+      "b" : 13,
+      "g" : 8,
+      "label" : "marrom",
+      "r" : 24
+    },
+    "-LRoOuiWW23lUU3NtXZF" : {
+      "b" : 37,
+      "g" : 89,
+      "label" : "marrom",
+      "r" : 115
+    },
+    "-LRoOulJCtEzeC-DdkBV" : {
+      "b" : 165,
+      "g" : 245,
+      "label" : "verde",
+      "r" : 166
+    },
+    "-LRoOv-djY2giPmdATMS" : {
+      "b" : 77,
+      "g" : 129,
+      "label" : "marrom",
+      "r" : 181
+    },
+    "-LRoOvG2crfgez46fnIO" : {
+      "b" : 33,
+      "g" : 41,
+      "label" : "marrom",
+      "r" : 72
+    },
+    "-LRoOvuUw0tYtLj8gZsj" : {
+      "b" : 66,
+      "g" : 12,
+      "label" : "roxo",
+      "r" : 64
+    },
+    "-LRoOw3E6MoPpzVleViT" : {
+      "b" : 8,
+      "g" : 139,
+      "label" : "marrom",
+      "r" : 217
+    },
+    "-LRoOwDBh-n4SVvuA4Bv" : {
+      "b" : 62,
+      "g" : 119,
+      "label" : "marrom",
+      "r" : 177
+    },
+    "-LRoOwVrSjbXT2pS_Rdg" : {
+      "b" : 186,
+      "g" : 54,
+      "label" : "azul",
+      "r" : 71
+    },
+    "-LRoOyftM-jmww2lnpsM" : {
+      "b" : 177,
+      "g" : 246,
+      "label" : "amarelo",
+      "r" : 248
+    },
+    "-LRoOz-N4T07g0wz35Oq" : {
+      "b" : 21,
+      "g" : 66,
+      "label" : "vermelho",
+      "r" : 227
+    },
+    "-LRoOzKX5b_zdTwFDYFW" : {
+      "b" : 31,
+      "g" : 130,
+      "label" : "marrom",
+      "r" : 194
+    },
+    "-LRoOzv66EZkksa6Nc69" : {
+      "b" : 222,
+      "g" : 167,
+      "label" : "azul",
+      "r" : 115
+    },
+    "-LRoP-ER9alsUlKBlAKy" : {
+      "b" : 155,
+      "g" : 93,
+      "label" : "azul",
+      "r" : 4
+    },
+    "-LRoP-rSUNc-lDyygEic" : {
+      "b" : 200,
+      "g" : 190,
+      "label" : "cinza",
+      "r" : 161
+    },
+    "-LRoP0fzymha0S9ufEEa" : {
+      "b" : 149,
+      "g" : 76,
+      "label" : "rosa",
+      "r" : 225
+    },
+    "-LRoP16QL1v0TAzPtyAu" : {
+      "b" : 165,
+      "g" : 75,
+      "label" : "roxo",
+      "r" : 116
+    },
+    "-LRoP1d1gl1ZVeIWVvqp" : {
+      "b" : 199,
+      "g" : 250,
+      "label" : "verde",
+      "r" : 212
+    },
+    "-LRoP1oYt8jVywJMSAoH" : {
+      "b" : 110,
+      "g" : 200,
+      "label" : "verde",
+      "r" : 151
+    },
+    "-LRoP2Y_p7LxGvU2tbvV" : {
+      "b" : 166,
+      "g" : 141,
+      "label" : "roxo",
+      "r" : 171
+    },
+    "-LRoP3thAFpMcXdXV8_p" : {
+      "b" : 143,
+      "g" : 140,
+      "label" : "laranja",
+      "r" : 237
+    },
+    "-LRoP4eTy-Gsnq3XF5bi" : {
+      "b" : 123,
+      "g" : 40,
+      "label" : "azul",
+      "r" : 0
+    },
+    "-LRoP4v3bkM_WGoyqgP7" : {
+      "b" : 113,
+      "g" : 207,
+      "label" : "verde",
+      "r" : 200
+    },
+    "-LRoP55rhLgYC0Bc5XXa" : {
+      "b" : 33,
+      "g" : 196,
+      "label" : "verde",
+      "r" : 139
+    },
+    "-LRoP5rTTX_XQGAY3dq4" : {
+      "b" : 33,
+      "g" : 89,
+      "label" : "laranja",
+      "r" : 182
+    },
+    "-LRoP6RhVbSWEIP7aVTG" : {
+      "b" : 44,
+      "g" : 52,
+      "label" : "cinza",
+      "r" : 60
+    },
+    "-LRoP6wzuBMHeVuNUfgt" : {
+      "b" : 42,
+      "g" : 208,
+      "label" : "amarelo",
+      "r" : 241
+    },
+    "-LRoP87Ut0qcQyeDH2qi" : {
+      "b" : 104,
+      "g" : 105,
+      "label" : "rosa",
+      "r" : 178
+    },
+    "-LRoP8Lc1CRsAMiJf0F7" : {
+      "b" : 86,
+      "g" : 0,
+      "label" : "rosa",
+      "r" : 228
+    },
+    "-LRoP8iQVImjgn9TxiGC" : {
+      "b" : 50,
+      "g" : 188,
+      "label" : "verde",
+      "r" : 16
+    },
+    "-LRoP91e9ymil_BKQ13P" : {
+      "b" : 17,
+      "g" : 115,
+      "label" : "verde",
+      "r" : 94
+    },
+    "-LRoP9dQe0_pUEz3Vzpf" : {
+      "b" : 43,
+      "g" : 23,
+      "label" : "vermelho",
+      "r" : 215
+    },
+    "-LRoPB8U74d4z5ZkLWup" : {
+      "b" : 28,
+      "g" : 117,
+      "label" : "laranja",
+      "r" : 204
+    },
+    "-LRoPBftqBSL-te3konw" : {
+      "b" : 200,
+      "g" : 192,
+      "label" : "azul",
+      "r" : 52
+    },
+    "-LRoPC5kaxb6JhEa8ROF" : {
+      "b" : 227,
+      "g" : 112,
+      "label" : "roxo",
+      "r" : 217
+    },
+    "-LRoRZtztw1lxwiwTuSY" : {
+      "b" : 207,
+      "g" : 226,
+      "label" : "azul",
+      "r" : 101
+    },
+    "-LRoR_TK5AtGw-4BSe27" : {
+      "b" : 183,
+      "g" : 211,
+      "label" : "verde",
+      "r" : 112
+    },
+    "-LRoRaFCEOd_J2PzYr9m" : {
+      "b" : 90,
+      "g" : 183,
+      "label" : "laranja",
+      "r" : 249
+    },
+    "-LRoRahSURd8Cmh6zlTj" : {
+      "b" : 220,
+      "g" : 131,
+      "label" : "roxo",
+      "r" : 156
+    },
+    "-LRoRb3Mjy_xewAyRdGb" : {
+      "b" : 159,
+      "g" : 52,
+      "label" : "roxo",
+      "r" : 83
+    },
+    "-LRoRcEtjBeBzi1PSD-B" : {
+      "b" : 29,
+      "g" : 113,
+      "label" : "marrom",
+      "r" : 164
+    },
+    "-LRoRcUyCwTiJGFyfKey" : {
+      "b" : 238,
+      "g" : 9,
+      "label" : "roxo",
+      "r" : 144
+    },
+    "-LRoRcxCcpvH0k5OstSM" : {
+      "b" : 178,
+      "g" : 234,
+      "label" : "amarelo",
+      "r" : 253
+    },
+    "-LRoRdDyajUlIwDczL1V" : {
+      "b" : 145,
+      "g" : 53,
+      "label" : "roxo",
+      "r" : 79
+    },
+    "-LRoRe569aY1cly5gq9S" : {
+      "b" : 223,
+      "g" : 25,
+      "label" : "roxo",
+      "r" : 162
+    },
+    "-LRoReVAMErVh_kSCLbV" : {
+      "b" : 27,
+      "g" : 137,
+      "label" : "marrom",
+      "r" : 172
+    },
+    "-LRoRepKZADhZIPtPLYa" : {
+      "b" : 226,
+      "g" : 85,
+      "label" : "azul",
+      "r" : 46
+    },
+    "-LRoRfDkRPEmXchs2vEc" : {
+      "b" : 3,
+      "g" : 240,
+      "label" : "verde",
+      "r" : 141
+    },
+    "-LRoRfe6hYGqieLHmYaO" : {
+      "b" : 210,
+      "g" : 182,
+      "label" : "azul",
+      "r" : 73
+    },
+    "-LRoRgKfWeg_Te6KYwal" : {
+      "b" : 192,
+      "g" : 218,
+      "label" : "verde",
+      "r" : 138
+    },
+    "-LRoRgcTP2iUdE0FY3i4" : {
+      "b" : 128,
+      "g" : 79,
+      "label" : "azul",
+      "r" : 37
+    },
+    "-LRoRgyylWUnagpfEXsL" : {
+      "b" : 132,
+      "g" : 153,
+      "label" : "verde",
+      "r" : 69
+    },
+    "-LRoRhAbB53kqj1YH0BQ" : {
+      "b" : 234,
+      "g" : 189,
+      "label" : "azul",
+      "r" : 115
+    },
+    "-LRoRhPbhaSthF-VaUbd" : {
+      "b" : 75,
+      "g" : 150,
+      "label" : "verde",
+      "r" : 141
+    },
+    "-LRoRhtIyHIYta3S5B9Q" : {
+      "b" : 84,
+      "g" : 16,
+      "label" : "roxo",
+      "r" : 119
+    },
+    "-LRoRiAN85q8e_7Fhb19" : {
+      "b" : 61,
+      "g" : 54,
+      "label" : "vermelho",
+      "r" : 243
+    },
+    "-LRoRifOA2T04zSI3ShT" : {
+      "b" : 116,
+      "g" : 74,
+      "label" : "rosa",
+      "r" : 176
+    },
+    "-LRoRjAhBQm7o5Kk6hPq" : {
+      "b" : 202,
+      "g" : 220,
+      "label" : "verde",
+      "r" : 135
+    },
+    "-LRoRjRcwkaNkXxM6iEk" : {
+      "b" : 237,
+      "g" : 243,
+      "label" : "azul",
+      "r" : 122
+    },
+    "-LRq1b_msy0BYiNHu93-" : {
+      "b" : 232,
+      "g" : 56,
+      "label" : "roxo",
+      "r" : 76
+    },
+    "-LRq1cBR8M0mdFZzFV7L" : {
+      "b" : 51,
+      "g" : 144,
+      "label" : "laranja",
+      "r" : 251
+    },
+    "-LRq1cjEHn4Eyq41BN5d" : {
+      "b" : 196,
+      "g" : 119,
+      "label" : "azul",
+      "r" : 0
+    },
+    "-LRq1dNCH4TSYV6n99cD" : {
+      "b" : 129,
+      "g" : 147,
+      "label" : "marrom",
+      "r" : 167
+    },
+    "-LRq1ef4Sx92IGxKitGE" : {
+      "b" : 185,
+      "g" : 109,
+      "label" : "azul",
+      "r" : 89
+    },
+    "-LRq1ezL_PkqYkzJgeIO" : {
+      "b" : 103,
+      "g" : 195,
+      "label" : "verde",
+      "r" : 156
+    },
+    "-LRq1hIVq83mJ6oEoECZ" : {
+      "b" : 240,
+      "g" : 97,
+      "label" : "roxo",
+      "r" : 253
+    },
+    "-LRq1hyzOJ6phH9YE5f7" : {
+      "b" : 86,
+      "g" : 245,
+      "label" : "verde",
+      "r" : 29
+    },
+    "-LRq1jXdiMW9PWe5AGbn" : {
+      "b" : 247,
+      "g" : 247,
+      "label" : "azul",
+      "r" : 149
+    },
+    "-LRq1jvphQPJSv_Nv5-w" : {
+      "b" : 71,
+      "g" : 166,
+      "label" : "verde",
+      "r" : 92
+    },
+    "-LRq1l9oDFWDT2M9rpFQ" : {
+      "b" : 27,
+      "g" : 35,
+      "label" : "vermelho",
+      "r" : 112
+    },
+    "-LRq1mZi4T31_lCaqDzh" : {
+      "b" : 198,
+      "g" : 122,
+      "label" : "roxo",
+      "r" : 185
+    },
+    "-LRq45dvCRMaxoQCYg86" : {
+      "b" : 209,
+      "g" : 82,
+      "label" : "roxo",
+      "r" : 173
+    },
+    "-LRq46c9csIdF9vu6w6E" : {
+      "b" : 247,
+      "g" : 221,
+      "label" : "azul",
+      "r" : 71
+    },
+    "-LRq47X-ZDW_rxhfsCsa" : {
+      "b" : 151,
+      "g" : 253,
+      "label" : "amarelo",
+      "r" : 237
+    },
+    "-LRq47suhcd7VGrBVdxw" : {
+      "b" : 227,
+      "g" : 50,
+      "label" : "roxo",
+      "r" : 136
+    },
+    "-LRq48BsQL1YKAmCofxJ" : {
+      "b" : 13,
+      "g" : 99,
+      "label" : "marrom",
+      "r" : 123
+    },
+    "-LRq48yB_I9Sh3mtEM0M" : {
+      "b" : 64,
+      "g" : 201,
+      "label" : "verde",
+      "r" : 165
+    },
+    "-LRq49L66g1UrkeeubgL" : {
+      "b" : 46,
+      "g" : 249,
+      "label" : "verde",
+      "r" : 94
+    },
+    "-LRq49lYe1uKiF8odBk7" : {
+      "b" : 0,
+      "g" : 136,
+      "label" : "laranja",
+      "r" : 229
+    },
+    "-LRq4A1Q8a2_-BL1uhfx" : {
+      "b" : 242,
+      "g" : 39,
+      "label" : "roxo",
+      "r" : 198
+    },
+    "-LRq4AQ-xTgjPJ_ebFmb" : {
+      "b" : 32,
+      "g" : 133,
+      "label" : "verde",
+      "r" : 33
+    },
+    "-LRq4B6lICFtQtxYakYC" : {
+      "b" : 140,
+      "g" : 101,
+      "label" : "rosa",
+      "r" : 229
+    },
+    "-LRq4BMOwWF0BLfqpFQg" : {
+      "b" : 150,
+      "g" : 17,
+      "label" : "rosa",
+      "r" : 226
+    },
+    "-LRq4Bj7xzoV9Sgbvioq" : {
+      "b" : 114,
+      "g" : 61,
+      "label" : "roxo",
+      "r" : 111
+    },
+    "-LRq4CPxf_sfI7v-UXXd" : {
+      "b" : 69,
+      "g" : 141,
+      "label" : "laranja",
+      "r" : 209
+    },
+    "-LRq4Ceaauw2fQdMrM8B" : {
+      "b" : 69,
+      "g" : 196,
+      "label" : "verde",
+      "r" : 31
+    },
+    "-LRqE_ZNEk3B84NEceWu" : {
+      "b" : 211,
+      "g" : 143,
+      "label" : "azul",
+      "r" : 122
+    },
+    "-LRqEaRBjIcOLxVRDD72" : {
+      "b" : 77,
+      "g" : 160,
+      "label" : "verde",
+      "r" : 96
+    },
+    "-LRqEaqNIeO2xcJtW16E" : {
+      "b" : 184,
+      "g" : 49,
+      "label" : "azul",
+      "r" : 30
+    },
+    "-LRqEbVfQg3O1vsM0B5D" : {
+      "b" : 67,
+      "g" : 15,
+      "label" : "vermelho",
+      "r" : 240
+    },
+    "-LRqEcAVuV0Jo_EXGi3b" : {
+      "b" : 113,
+      "g" : 200,
+      "label" : "verde",
+      "r" : 180
+    },
+    "-LRqEcjewFgOC8IRPSYI" : {
+      "b" : 92,
+      "g" : 145,
+      "label" : "marrom",
+      "r" : 168
+    },
+    "-LRqEeNmhrjaRHQQR66k" : {
+      "b" : 173,
+      "g" : 119,
+      "label" : "roxo",
+      "r" : 165
+    },
+    "-LRqEefKFuKTkSyiU0PJ" : {
+      "b" : 245,
+      "g" : 17,
+      "label" : "azul",
+      "r" : 152
+    },
+    "-LRqEeskQvOIqxnKOuuS" : {
+      "b" : 191,
+      "g" : 31,
+      "label" : "roxo",
+      "r" : 150
+    },
+    "-LRqEfYpC0qcThSCg9Qn" : {
+      "b" : 235,
+      "g" : 174,
+      "label" : "roxo",
+      "r" : 212
+    },
+    "-LRqEfvBw2SNoq90GeLR" : {
+      "b" : 71,
+      "g" : 137,
+      "label" : "verde",
+      "r" : 94
+    },
+    "-LRqEgUjWcPzVKoe50_e" : {
+      "b" : 116,
+      "g" : 149,
+      "label" : "rosa",
+      "r" : 250
+    },
+    "-LRqEguDk5il_PskKDxn" : {
+      "b" : 243,
+      "g" : 62,
+      "label" : "roxo",
+      "r" : 218
+    },
+    "-LRqEhOWQTcKRTa8my68" : {
+      "b" : 60,
+      "g" : 45,
+      "label" : "vermelho",
+      "r" : 232
+    },
+    "-LRqEhrKgKwTulK7gfR6" : {
+      "b" : 40,
+      "g" : 92,
+      "label" : "verde",
+      "r" : 53
+    },
+    "-LRqEiFVzIjnkfLcMJjH" : {
+      "b" : 208,
+      "g" : 46,
+      "label" : "roxo",
+      "r" : 152
+    },
+    "-LRqEifPO5_tW4tCSIA-" : {
+      "b" : 2,
+      "g" : 159,
+      "label" : "verde",
+      "r" : 167
+    },
+    "-LRqEjChLs_zHd59BelR" : {
+      "b" : 71,
+      "g" : 37,
+      "label" : "azul",
+      "r" : 17
+    },
+    "-LRqEjUqcqLXfd8lIQgO" : {
+      "b" : 216,
+      "g" : 191,
+      "label" : "azul",
+      "r" : 147
+    },
+    "-LRqEjn1HdmSxYzEQbWf" : {
+      "b" : 162,
+      "g" : 210,
+      "label" : "verde",
+      "r" : 101
+    },
+    "-LRqEk1L1amlE5b2f4xG" : {
+      "b" : 250,
+      "g" : 134,
+      "label" : "azul",
+      "r" : 208
+    }
+  }
+}
