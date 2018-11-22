@@ -1,0 +1,27 @@
+h1 {
+  font-size: 2.5em;
+}
+
+header > small {
+  font-size: 1.2em;
+}
+
+a {
+	color: $font-color;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#label {
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  padding: 1%;
+  margin-top: 1%;
+  justify-content: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+}

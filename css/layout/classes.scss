@@ -1,0 +1,20 @@
+.flex {
+  display: flex;
+}
+
+.center {
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap {
+  flex-wrap: wrap;
+
+  & > button {
+    margin: 5px;
+  }
+}
+
+.column {
+  flex-direction: column;
+}

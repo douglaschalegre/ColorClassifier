@@ -1,0 +1,54 @@
+body {
+  min-height: 100vh;
+  font-family: 'Muli', sans-serif;
+  background-color: $secondary-color;
+  color: $font-color;
+  box-sizing: border-box;
+  @include column-flex;
+}
+
+header, footer {
+  width: 100%;
+  color: $primary-color;
+  line-height: 1.2;
+  margin: 1% 0;
+  @include column-flex;
+}
+
+footer {
+  color: $font-color;
+}
+
+.container {
+  width: 50%;
+  border: 2px outset $primary-color;
+  @include rounded-border(5px);
+  padding: 1%;
+  margin: 1%;
+  box-sizing: border-box;
+  @include column-flex;
+  line-height: 1.5;
+  text-align: center;
+  
+  & > p, & > h3 {
+    margin-bottom: 1%;
+  }
+
+  & > h3 {
+    font-size: 1.4em;
+  }  
+
+  & > p {
+    line-height: 1.5;
+  }
+
+}
+
+.sliderscontainer {
+  width: 80%;
+}
+
+canvas {
+  @include rounded-border(5px);
+}
+

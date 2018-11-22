@@ -1,0 +1,12 @@
+@mixin column-flex {
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+@mixin rounded-border($radius: 10px) {
+  border-radius: $radius;
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -o-border-radius: $radius;
+  -ms-border-radius: $radius;
+}

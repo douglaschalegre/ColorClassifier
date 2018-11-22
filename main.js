@@ -9,10 +9,10 @@ var config = {
 firebase.initializeApp(config);
 var database = firebase.database();
 
-const botoes = document.querySelectorAll('.btns');
+const botoes = document.querySelectorAll('.btn');
 botoes.forEach(botao => {
   botao.addEventListener("click", function sendData(){
-  
+    console.log("O envio de informações para o banco de dados está desativado!")
     let corDb = database.ref('cor');
     let data = { //creates the object to be storaged on firebase
       r:rgb.r,
@@ -120,7 +120,7 @@ $.getJSON("neuralnetjs.json", function(data){
 
     async function train(){ //makes the neural network learn
       const options = {
-        epochs: 5, // higher number the more training it will do
+        epochs: 500, // higher number the more training it will do
         validationSplit: 0.1,
         shuffle: true,
         callbacks: {
@@ -176,7 +176,6 @@ $('#blue').mousemove(drawPredict);
 
   
  
-
 
 
 

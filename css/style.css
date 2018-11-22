@@ -1,0 +1,167 @@
+/* 
+    Author: Fernando Augusto | www.ffaneto.com
+    Theme: Neutral Network LP
+    Version: 1.0.1
+
+    PS: It's not completely responsive!
+*/
+@import url("https://fonts.googleapis.com/css?family=Muli");
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  text-decoration: none; }
+
+ol, ul {
+  list-style: none; }
+
+body {
+  min-height: 100vh;
+  font-family: 'Muli', sans-serif;
+  background-color: #292F32;
+  color: #fff;
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-wrap: wrap; }
+
+header, footer {
+  width: 100%;
+  color: #4BB9C0;
+  line-height: 1.2;
+  margin: 1% 0;
+  flex-direction: column;
+  flex-wrap: wrap; }
+
+footer {
+  color: #fff; }
+
+.container {
+  width: 50%;
+  border: 2px outset #4BB9C0;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px;
+  padding: 1%;
+  margin: 1%;
+  box-sizing: border-box;
+  flex-direction: column;
+  flex-wrap: wrap;
+  line-height: 1.5;
+  text-align: center; }
+  .container > p, .container > h3 {
+    margin-bottom: 1%; }
+  .container > h3 {
+    font-size: 1.4em; }
+  .container > p {
+    line-height: 1.5; }
+
+.sliderscontainer {
+  width: 80%; }
+
+canvas {
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
+  -ms-border-radius: 5px; }
+
+h1 {
+  font-size: 2.5em; }
+
+header > small {
+  font-size: 1.2em; }
+
+a {
+  color: #fff; }
+
+a:hover {
+  text-decoration: underline; }
+
+#label {
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  padding: 1%;
+  margin-top: 1%;
+  justify-content: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em; }
+
+.btn {
+  cursor: pointer;
+  box-sizing: border-box;
+  color: #fff;
+  background-color: #4BB9C0;
+  padding: 10px 20px;
+  font-size: 1em;
+  text-transform: capitalize;
+  transition: 0.3s;
+  opacity: 0.9;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  -ms-border-radius: 3px; }
+
+.btn:hover {
+  opacity: 1; }
+
+.slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 50%;
+  height: 5px;
+  background-color: #fff;
+  outline: none;
+  transition: 0.2s;
+  margin: 10px 0;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -o-border-radius: 10px;
+  -ms-border-radius: 10px; }
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: #4BB9C0;
+  cursor: pointer; }
+
+.slider::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: #4BB9C0;
+  cursor: pointer; }
+
+#red::-webkit-slider-thumb {
+  background: #c0392b; }
+
+#green::-webkit-slider-thumb {
+  background: #27ae60; }
+
+#blue::-webkit-slider-thumb {
+  background: #2980b9; }
+
+.flex {
+  display: flex; }
+
+.center {
+  justify-content: center;
+  align-items: center; }
+
+.wrap {
+  flex-wrap: wrap; }
+  .wrap > button {
+    margin: 5px; }
+
+.column {
+  flex-direction: column; }
+
+/*# sourceMappingURL=style.css.map */
