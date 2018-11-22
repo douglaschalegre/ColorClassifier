@@ -1,0 +1,60 @@
+// Buttons
+.btn {
+  cursor: pointer;
+  box-sizing: border-box;
+  color: $font-color;
+  background-color: $primary-color;
+  padding: 10px 20px;
+  font-size: 1em;
+  text-transform: capitalize;
+  transition: 0.3s;
+  opacity: 0.9;
+  @include rounded-border(3px);
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+// Sliders
+.slider {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 50%;
+  height: 5px;
+  background-color: $font-color;
+  outline: none;
+  transition: 0.2s;
+  margin: 10px 0;
+  @include rounded-border;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: $slider-range-size;
+  height: $slider-range-size;
+  border-radius: 50%; 
+  background: $primary-color;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: $slider-range-size;
+  height: $slider-range-size;
+  border-radius: 50%;
+  background: $primary-color;
+  cursor: pointer;
+}
+
+#red::-webkit-slider-thumb {
+  background: #c0392b;
+}
+
+#green::-webkit-slider-thumb {
+  background: #27ae60;
+}
+
+#blue::-webkit-slider-thumb {
+  background: #2980b9;
+}

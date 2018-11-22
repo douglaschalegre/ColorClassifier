@@ -1,42 +1,68 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Cores.nn</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+
+    <!-- Styles -->
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <!-- <link rel="stylesheet" type="text/css" media="screen" href="main.css" /> -->
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="https://www.gstatic.com/firebasejs/5.5.8/firebase.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.11.7"> </script>
-    
+
 </head>
-<body onload="draw();">
-    <div>
+
+<body onload="draw();" class="flex center">
+    <header class="flex center">
+        <h1>Neural Network</h1>
+        <small>Classificação de Cores</small>
+    </header>
+
+    <section class="container">
         <h3>Treinamento</h3>
         <canvas id="canvas" width="150" height="150"></canvas>
         <p>Qual a cor mais similar com a que você está vendo?</p>
-        <button class="btns" >amarelo</button>
-        <button class="btns" >laranja</button>
-        <button class="btns" >vermelho</button>
-        <button class="btns" >roxo</button>
-        <button class="btns" >azul</button>
-        <button class="btns" >verde</button>
-        <button class="btns" >cinza</button>
-        <button class="btns" >rosa</button>
-        <button class="btns" >marrom</button>
-    </div>
 
-    <div>
+        <div class="flex center wrap">
+            <button class="btn">amarelo</button>
+            <button class="btn">laranja</button>
+            <button class="btn">vermelho</button>
+            <button class="btn">roxo</button>
+            <button class="btn">azul</button>
+            <button class="btn">verde</button>
+            <button class="btn">cinza</button>
+            <button class="btn">rosa</button>
+            <button class="btn">marrom</button>
+        </div>
+
+    </section>
+
+    <section class="container flex center">
         <h3>Previsão de cor</h3>
-        <canvas id="canvasPredict" width="150" height="150"></canvas>
-        <input id = "red" type="range" min="0" max="255" value="122">
-        <input id = "green" type="range" min="0" max="255" value="122">
-        <input id = "blue" type="range" min="0" max="255" value="122">
-        <p id = "label">Nada ainda!</p>
-    </div>
+
+        <div class="sliderscontainer flex column center">
+            <canvas id="canvasPredict" width="150" height="150"></canvas>
+            <input id="red" type="range" min="0" max="255" value="122" class="slider" >
+            <input id="green" type="range" min="0" max="255" value="122" class="slider">
+            <input id="blue" type="range" min="0" max="255" value="122" class="slider">
+        </div>
+
+        <p id="label">(R, G, B)</p>
+    </section>
+
+    <footer class="flex center">
+        <h4><a target="_blank" href="https://github.com/douglaschalegre">Douglas Chalegre</a>,
+            <a target="_blank" href="https://github.com/fernandoajn">Fernando Augusto</a> &
+            <a target="_blank" href="https://github.com/Ricardovasconcelos">Ricardo Vasconcelos</a>
+            @ Centro Universitário Tiradentes, 2018</h4>
+    </footer>
 
     <script src="main.js"></script>
 </body>
+
 </html>

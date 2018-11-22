@@ -1,0 +1,32 @@
+h1 {
+  font-size: 2.5em;
+}
+
+header > h1, small,
+footer > h4 {
+  text-shadow: 1px 1px $shadow-color;
+}
+
+header > small {
+  font-size: 1.2em;
+}
+
+a {
+	color: $primary-color;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#label {
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  padding: 1%;
+  margin-top: 1%;
+  justify-content: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+}
