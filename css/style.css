@@ -1,7 +1,7 @@
 /* 
     Author: Fernando Augusto | www.ffaneto.com
     Theme: Neutral Network LP
-    Version: 1.0.0
+    Version: 1.0.1
 
     PS: It's not completely responsive!
 */
@@ -31,6 +31,9 @@ header, footer {
   margin: 1% 0;
   flex-direction: column;
   flex-wrap: wrap; }
+
+footer {
+  color: #fff; }
 
 .container {
   width: 50%;
@@ -67,15 +70,11 @@ canvas {
 h1 {
   font-size: 2.5em; }
 
-header > h1, small,
-footer > h4 {
-  text-shadow: 1px 1px #111; }
-
 header > small {
   font-size: 1.2em; }
 
 a {
-  color: #4BB9C0; }
+  color: #fff; }
 
 a:hover {
   text-decoration: underline; }
