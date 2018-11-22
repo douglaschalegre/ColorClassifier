@@ -13,19 +13,30 @@
     
 </head>
 <body onload="draw();">
-    <canvas id="canvas" width="150" height="150"></canvas>
-    <p>Qual a cor mais similar com a que você está vendo?</p>
-    <button class="btns" >amarelo</button>
-    <button class="btns" >laranja</button>
-    <button class="btns" >vermelho</button>
-    <button class="btns" >roxo</button>
-    <button class="btns" >azul</button>
-    <button class="btns" >verde</button>
-    <button class="btns" >cinza</button>
-    <button class="btns" >rosa</button>
-    <button class="btns" >marrom</button>
+    <div>
+        <h3>Treinamento</h3>
+        <canvas id="canvas" width="150" height="150"></canvas>
+        <p>Qual a cor mais similar com a que você está vendo?</p>
+        <button class="btns" >amarelo</button>
+        <button class="btns" >laranja</button>
+        <button class="btns" >vermelho</button>
+        <button class="btns" >roxo</button>
+        <button class="btns" >azul</button>
+        <button class="btns" >verde</button>
+        <button class="btns" >cinza</button>
+        <button class="btns" >rosa</button>
+        <button class="btns" >marrom</button>
+    </div>
+
+    <div>
+        <h3>Previsão de cor</h3>
+        <canvas id="canvasPredict" width="150" height="150"></canvas>
+        <input id = "red" type="range" min="0" max="255" value="122">
+        <input id = "green" type="range" min="0" max="255" value="122">
+        <input id = "blue" type="range" min="0" max="255" value="122">
+        <p id = "label">Nada ainda!</p>
+    </div>
 
     <script src="main.js"></script>
-    
 </body>
 </html>
