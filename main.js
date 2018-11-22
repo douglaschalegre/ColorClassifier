@@ -9,7 +9,7 @@ var config = {
 firebase.initializeApp(config);
 var database = firebase.database();
 
-const botoes = document.querySelectorAll('.btns');
+const botoes = document.querySelectorAll('.btn');
 botoes.forEach(botao => {
   botao.addEventListener("click", function sendData(){
     console.log("O envio de informações para o banco de dados está desativado!")
